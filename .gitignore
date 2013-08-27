@@ -5,3 +5,5 @@
 ._*
 .Trashes
 Thumbs.db
+/log/*.log
+/tmp

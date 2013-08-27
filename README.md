@@ -7,3 +7,4 @@ Learning jQuery ajax using the Flickr API.
 	*	Incorporate Mustache.js
 	*	Create a Backbone.js and Underscore.js version
 
+[Basic Demo](http://mikecarretta.com/JavaScript/Flickr/)
