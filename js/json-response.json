@@ -1,0 +1,49 @@
+// User Info
+    {"person":{
+      "id":"15771535@N04", 
+      "nsid":"15771535@N04", 
+      "ispro":0, 
+      "iconserver":"7342", 
+      "iconfarm":8, 
+      "path_alias":"new-england-wildlife", 
+      "username":{"_content":"CT Wildlife"}, 
+      "realname":{"_content":"Mike Carretta"}, 
+      "location":{"_content":"Stratford, Connecticut"}, 
+      "timezone":{"label":"Eastern Time (US & Canada)", "offset":"-05:00"}, 
+      "description":{"_content":"I have been developing a responsive Wordpress theme for birders which I hope to release soon. I am currently testing and debugging on my website. Theme highlights include: custom post type and taxonomy for a bird list and portfolio, customized widgets, options and page templates.\n\n<a href=\"http:\/\/mikecarretta.com\/\" rel=\"nofollow\">mikecarretta.com<\/a>\n\n\n"}, "photosurl":{"_content":"http:\/\/www.flickr.com\/photos\/new-england-wildlife\/"}, 
+      "profileurl":{"_content":"http:\/\/www.flickr.com\/people\/new-england-wildlife\/"}, 
+      "mobileurl":{"_content":"http:\/\/m.flickr.com\/photostream.gne?id=15739396"}, 
+      "photos":{"firstdatetaken":{"_content":"2006-02-12 03:41:30"}, 
+      "firstdate":{"_content":"1194830149"}, 
+      "count":{"_content":553}}}, 
+      "stat":"ok"}
+
+// flickr.people.getPublicPhotos
+// Do not sign call?
+// URL: http://api.flickr.com/services/rest/?method=flickr.people.getPublicPhotos&api_key=eeb2502d55199bdcedace53bd3c81a43&user_id=15771535%40N04&per_page=10&page=1&format=json&nojsoncallback=1
+{ "photos": { "page": 1, "pages": 56, "perpage": 10, "total": "553", 
+    "photo": [
+      { "id": "8635178811", "owner": "15771535@N04", "secret": "9a5ed8f966", "server": "8102", "farm": 9, "title": "Red-breasted Nuthatch", "ispublic": 1, "isfriend": 0, "isfamily": 0 },
+      { "id": "8500226301", "owner": "15771535@N04", "secret": "0d0f8574b6", "server": "8252", "farm": 9, "title": "White-winged Crossbill", "ispublic": 1, "isfriend": 0, "isfamily": 0 },
+      { "id": "8498369957", "owner": "15771535@N04", "secret": "0f9d22db9e", "server": "8091", "farm": 9, "title": "Leucistic Black-headed Gull or Bonaparte's Gull", "ispublic": 1, "isfriend": 0, "isfamily": 0 },
+      { "id": "8498368737", "owner": "15771535@N04", "secret": "93f8849165", "server": "8109", "farm": 9, "title": "Leucistic Black-headed Gull or Bonaparte's Gull", "ispublic": 1, "isfriend": 0, "isfamily": 0 },
+      { "id": "8114488335", "owner": "15771535@N04", "secret": "a8050f6026", "server": "8325", "farm": 9, "title": "Fox Sparrow", "ispublic": 1, "isfriend": 0, "isfamily": 0 },
+      { "id": "7990334875", "owner": "15771535@N04", "secret": "7052a17e73", "server": "8455", "farm": 9, "title": "Solitary Sandpiper", "ispublic": 1, "isfriend": 0, "isfamily": 0 },
+      { "id": "7582685718", "owner": "15771535@N04", "secret": "7d20b0448a", "server": "7262", "farm": 8, "title": "Orchard Oriole", "ispublic": 1, "isfriend": 0, "isfamily": 0 },
+      { "id": "7395350808", "owner": "15771535@N04", "secret": "e426daf3ee", "server": "8160", "farm": 9, "title": "Great Egret", "ispublic": 1, "isfriend": 0, "isfamily": 0 },
+      { "id": "7395346370", "owner": "15771535@N04", "secret": "d6b3d0a793", "server": "7073", "farm": 8, "title": "Snowy Egret", "ispublic": 1, "isfriend": 0, "isfamily": 0 },
+      { "id": "7358282910", "owner": "15771535@N04", "secret": "ea0e7f51f3", "server": "7236", "farm": 8, "title": "Leopard Moth", "ispublic": 1, "isfriend": 0, "isfamily": 0 }
+    ] }, "stat": "ok" 
+
+// 
+{ "user": { "id": "15771535@N04", "nsid": "15771535@N04", 
+    "username": { "_content": "CT Wildlife" } }, "stat": "ok" }
+
+/* EXIF
+URL: 
+http://api.flickr.com/services/rest/?method=flickr.photos.getExif
+&api_key=d919bdd365c517ff6c6df75346ae10e2
+&photo_id=8635178811
+&format=json
+&nojsoncallback=1
+*/
