@@ -1,14 +1,17 @@
-#navigation {
-	padding: 18px 0;
+.navbar {
+  border-radius: 0;
+  margin-bottom: 0;
 }
-#flickrUserInfo {
-	padding: 0 0 20px 0;
+
+.flickrApi-header {
+  padding: 40px 0 50px 0;
+  background-color: #e0e0e0;
 }
-#flickrPhotos {
-	padding: 20px 0;
+.flickrApi-header h1 {
+  margin-bottom: 20px;
 }
-#search {
-	padding: 20px 0;
+.flickrApi-photos {
+  padding: 40px 0 50px 0;
 }
 .thumb {
     float: left;
